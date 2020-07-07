@@ -1,5 +1,5 @@
 Hi Humans!
-Contributors: @ashsinden9, @nehaahlawat
+Contributors: @ashsinden9
 ---------------------------------------------------------------------------
 
 We have to compile both of these above codes to run.
